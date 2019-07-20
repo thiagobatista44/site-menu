@@ -1,0 +1,35 @@
+.logo{
+	margin: 0;
+    position: absolute;
+    color: #fff;
+    top: 35%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.centertext{
+	margin: 0;
+    position: absolute;
+    color: #000;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.emailcenter{
+	margin: 0;
+    position: absolute;
+    color: #000;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.bg{
+  background-image: url("bg.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
